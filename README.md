@@ -133,5 +133,5 @@ building scalable enterprise applications using:
 ---
 
 <p align="center">
-  <b>“Backend strong → Career strong.”</b>
+  <b>“Small commits. Big progress.”</b>
 </p>
