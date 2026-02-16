@@ -117,10 +117,16 @@ building scalable enterprise applications using:
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasad7659&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad7659&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prasad7659&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad7659&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
