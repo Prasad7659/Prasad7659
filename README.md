@@ -115,7 +115,6 @@ building scalable enterprise applications using:
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
