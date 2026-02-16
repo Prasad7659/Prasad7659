@@ -134,6 +134,8 @@ building scalable enterprise applications using:
 💼 Open to Backend / Full Stack roles  
 🚀 Consistent learner & builder  
 ⭐ Strong focus on real-world systems  
+📧 Email: ppulavarthi5@gmail.com 
+💼 LinkedIn: https://www.linkedin.com/in/krupa-vara-prasad-babu-pulavarthi-497563219
 
 ---
 
